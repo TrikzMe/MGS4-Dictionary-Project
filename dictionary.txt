@@ -246,6 +246,7 @@ ibox_item_bul
 ibox_item_large
 ibox_item_mcl
 ibox_item_mid
+ibox_item_small
 ipod_body
 ipod_body_0
 ipod_page
@@ -362,7 +363,11 @@ line1_testshort
 line2_testlong
 loading_HVN
 loading_HVN_0
+loading_LVN
 loading_MGS4
+loading_MNT
+loading_OCT
+loading_WLF
 m116_thr_def_sub
 m116_thr_lev
 m116_thr_pin
