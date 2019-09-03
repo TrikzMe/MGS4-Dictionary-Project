@@ -583,6 +583,7 @@ gecko_sight_title_alp
 gecko_sight_top_alp
 gil_def
 GLAS_BLK_A
+gove_def
 gp30
 gp30_grl_amo
 gp30_grl_amo_hig
@@ -830,6 +831,7 @@ m67g_thr_def_sub
 m67g_thr_lev
 m67g_thr_pin
 m72a_mis_mis_sub
+m870_def
 mach_knf_def_hig
 mach_knf_def_mid
 mach_knf_def_sub
@@ -1164,6 +1166,7 @@ otc_tongue_nrm
 otc_tooth_col
 otc_tooth_nrm
 otc_Top_cube_yn_Render1
+p90_def
 p90s_bul_bul_cm
 p90s_bul_cm
 p90s_sug_def_sub
@@ -2038,6 +2041,7 @@ scar_asr_amo
 scar_asr_def_hig
 scar_asr_def_mid
 scar_asr_def_sub
+scar_def
 scenerio
 scope
 scope_window
@@ -2214,9 +2218,13 @@ sna_skin_gra_02_rgba32
 sna_ss_shoulder_ovl_add_alp
 sna_sys_def_sp
 sna_sys_grd2_bl_4l_rgba32
+sna_wp_delb
 sna_wp_dragnov
 sna_wp_gove
+sna_wp_mk23
 sna_wp_mosin
+sna_wp_patriot
+sna_wp_thor
 snake
 snow02_alp
 snow_drop_cm
@@ -2302,6 +2310,7 @@ tags_itembox_0
 tags_target
 tags_target_0
 tane_asr_fire
+tane_def
 tang_equ_def_hig
 tang_equ_def_mid
 tang_equ_def_sub
@@ -2316,6 +2325,7 @@ test_kojipro_logo
 test_kojipro_logo_0
 test_konami_logo
 test_konami_logo_0
+thor_def
 thor_hag_def_sub_slot
 thor_hag_gls_slot
 threat_mesh_alp_rep
